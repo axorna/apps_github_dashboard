@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/apps_github_dashboard/static/css/main.9417a775.css",
+    "main.js": "/apps_github_dashboard/static/js/main.fedf16d9.js",
+    "static/js/488.9c92ff38.chunk.js": "/apps_github_dashboard/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/apps_github_dashboard/index.html",
+    "static/media/.env": "/apps_github_dashboard/static/media/.env.5a576e3201fe7a481291",
+    "main.9417a775.css.map": "/apps_github_dashboard/static/css/main.9417a775.css.map",
+    "main.fedf16d9.js.map": "/apps_github_dashboard/static/js/main.fedf16d9.js.map",
+    "488.9c92ff38.chunk.js.map": "/apps_github_dashboard/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9417a775.css",
+    "static/js/main.fedf16d9.js"
+  ]
+}
