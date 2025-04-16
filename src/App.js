@@ -178,7 +178,6 @@ function App() {
 
   return (
     <div className="mainpage">
-      {/* <p>{count}</p> */}
       <DataGrid
         rows={rows}
         columns={columns}
